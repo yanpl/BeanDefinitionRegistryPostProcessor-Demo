@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
  * @author 李佳明 https://github.com/pkpk1234/
  * @date 2017-10-30
  */
-@RestController
 @Slf4j
+@RestController
 public class PersonManagerRegisterController {
 
     /**
